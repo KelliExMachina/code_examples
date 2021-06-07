@@ -1,8 +1,43 @@
+# Block data files
 .DS_Store
+*.tsv
+*.csv
+*.xlsx
+
+# Spark cmd files
+*.cmd
+
+# Archive files
+*.zip
+*.tar
+*.gz
+*.gzip
+*.rar
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Media files
+*.mp4
+*.mp3
+*.wmv
+*.avi
+*.mpg
+*.mpeg
+
+# Folders
+envs/
+kaggle-api/
+blog_posts/
+code_snippets/
+petJS/
+bin/
+
+# Sublime extensions
+*.sublime-project
+*.sublime-workspace
 
 # C extensions
 *.so
