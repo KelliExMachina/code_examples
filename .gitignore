@@ -1,3 +1,5 @@
+config.py
+settings.json
 # Block data files
 .DS_Store
 *.tsv
